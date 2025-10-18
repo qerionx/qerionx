@@ -6,7 +6,7 @@ qerion, stellarcase, sysolace, derpman
 frontend dev
 
 <details>
-  <summary>stack</summary>
+  <summary>main tools & stack</summary>
   <ul>
     <li>typescript</li>
     <li>nextjs</li>
@@ -14,7 +14,6 @@ frontend dev
     <li>java</li>
     <li>rust</li>
     <li>astro</li>
-    <li>nodejs</li>
     <li>vite</li>
     <li>psql</li>
   </ul>
