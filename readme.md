@@ -1,10 +1,5 @@
 ---
 
-qerion, stellarcase, sysolace, derpman
-
-
-frontend dev
-
 <details>
   <summary>main tools & stack</summary>
   <ul>
@@ -16,9 +11,10 @@ frontend dev
     <li>astro</li>
     <li>vite</li>
     <li>psql</li>
+    <li>clash royale</li>
   </ul>
 </details>
 
-reach me `dev@sysolace.space`
+reach me ~~`dev@sysolace.space`~~
 
 ---
